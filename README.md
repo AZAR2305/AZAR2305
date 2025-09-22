@@ -5,7 +5,6 @@
   
   <br><br>
   
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVmdjBtM2Myb2J0NWtibnJvZnJmejg3dnh0NzJ2YnN6ajhoNHQzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xLzOrO1e19V3q/giphy.gif" width="200" alt="Luffy"/>
   
   <br>
   
