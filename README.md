@@ -1,15 +1,20 @@
 <div align="center">
-  
    
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk3dXpteWxqYWN0cXd4OXNvb25hM3Q0cGYzeGh1ZmZ1djUxbnUxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmkEhAIyWfpm1vdVcg/giphy.gif" width="400" alt="Luffy Adventure"/>
   
   <br><br>
   
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVmdjBtM2Myb2J0NWtibnJvZnJmejg3dnh0NzJ2YnN6ajhoNHQzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xLzOrO1e19V3q/giphy.gif" width="200" alt="Luffy"/>
   
   <br>
   
-  <!-- One Piece Style Name with Multiple Font Effects -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&weight=900&size=45&pause=1500&color=FF8C00&center=true&vCenter=true&width=900&height=120&lines=%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+THAMEEMUL+AZARUDEEN+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F" alt="Thameemul Azarudeen"/>
+  <!-- GIF Name Display - One Piece Style -->
+  <img src="https://media.giphy.com/media/your-name-gif-placeholder/giphy.gif" width="500" alt="THAMEEMUL AZARUDEEN"/>
+  
+  <!-- Alternative: Custom Name GIF Generator -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&weight=900&size=50&pause=0&color=FF8C00&center=true&vCenter=true&width=900&height=120&lines=THAMEEMUL+AZARUDEEN" alt="Thameemul Azarudeen Name GIF"/>
+  
+  <br>
   
   <img src="https://readme-typing-svg.herokuapp.com?font=Creepster&weight=800&size=32&pause=2000&color=DC143C&center=true&vCenter=true&width=850&height=100&lines=%E2%9A%94%EF%B8%8F+FUTURE+PIRATE+KING+OF+CODE+%E2%9A%94%EF%B8%8F;%F0%9F%8F%86+THE+ONE+PIECE+IS+REAL...+IN+CODE!+%F0%9F%8F%86;%F0%9F%94%A5+CONQUEROR+OF+THE+DIGITAL+SEAS+%F0%9F%94%A5" alt="Pirate King"/>
   
@@ -139,7 +144,7 @@ Ahoy there! I'm **Thameemul Azarudeen N**, a passionate student and developer sa
 
 <div align="center">
   
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk3dXpteWxqYWN0cXd4OXNvb25hM3Q0cGYzeGh1ZmZ1djUxbnUxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmkEhAIyWfpm1vdVcg/giphy.gif" width="250" alt="Luffy Adventure"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk3dXpteWxqYWN0cXd4OXNvb25hM3Q0cGYzeGh1ZmZ1djUxbnUxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmkEhAIyWfpm1vdVcg/giphy.gif" width="400" alt="Luffy Adventure"/>
   
   <br><br>
   
