@@ -1,6 +1,6 @@
 <div align="center">
    
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk3dXpteWxqYWN0cXd4OXNvb25hM3Q0cGYzeGh1ZmZ1djUxbnUxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmkEhAIyWfpm1vdVcg/giphy.gif" width="400" alt="Luffy Adventure"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2U4aTlkdXlvbDdsNnhqOHNxaDdjZnlzdndncnE4aW96ZGw1Ym90dSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/z4P0NNXY1LUSTQbWfL/giphy.gif" width="400" alt="Luffy Adventure"/>
   
   
   
@@ -9,8 +9,9 @@
   <!-- GIF Name Display - One Piece Style -->
   <img src="THAMEEMUL-AZARUDEEN-9-22-2025.gif" width="500" alt="THAMEEMUL AZARUDEEN"/>
   
+  <br>
   <!-- Alternative: Custom Name GIF Generator with Blue and Red Colors -->
-  <img src="https://readme-typing-svg.herokuapp.com?font=Pirata+One&weight=900&size=50&pause=0&color=1E90FF&center=true&vCenter=true&width=900&height=120&lines=THAMEEMUL+AZARUDEEN" alt="Thameemul Azarudeen Name GIF"/>
+
   
   <br>
   
@@ -146,12 +147,13 @@ Ahoy there! I'm **Thameemul Azarudeen N**, a passionate student and developer sa
   
   <br><br>
   
-  ![Snake animation](https://github.com/AZAR2305/AZAR2305/blob/output/github-contribution-grid-snake.svg)
+  <!-- Dark Mode Snake Animation from dist folder -->
+  <img src="https://raw.githubusercontent.com/AZAR2305/AZAR2305/main/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
   
   <br><br>
   
-  <!-- Alternative snake animation (if above doesn't work) -->
-  <img src="https://raw.githubusercontent.com/AZAR2305/AZAR2305/output/github-contribution-grid-snake.gif" alt="Snake Game"/>
+  <!-- Fallback message if snake doesn't load -->
+  <p><em>🐍 The snake is hunting for contributions... Check back soon! 🏴‍☠️</em></p>
   
 </div>
 
@@ -175,6 +177,10 @@ Ahoy there! I'm **Thameemul Azarudeen N**, a passionate student and developer sa
   
   ### *"I'll find the One Piece of Tech… and become the King of Coders!"* 🏴‍☠️👑
   
-    ![Profile Views](https://komarev.com/ghpvc/?username=AZAR2305&color=red&style=for-the-badge)
+  <br>
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=AZAR2305&color=blueviolet&style=for-the-badge)
+  ![GitHub followers](https://img.shields.io/github/followers/AZAR2305?label=Followers&style=for-the-badge&color=blue)
+  ![GitHub User's stars](https://img.shields.io/github/stars/AZAR2305?affiliations=OWNER&style=for-the-badge&color=yellow)
   
 </div>
