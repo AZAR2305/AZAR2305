@@ -1,16 +1,148 @@
-## Hi there 👋
+# 🏴‍☠️ Ahoy! I'm Thameemul Azarudeen N ⚓
 
-<!--
-**AZAR2305/AZAR2305** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  
+  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Student+%2B+Developer+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;Navigating+the+Grand+Line+of+Code;AI+%7C+Blockchain+%7C+Web3+%7C+Full+Stack;The+One+Piece+is+Real...+in+Code!+%F0%9F%8D%96)
+  
+</div>
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🗺️ About This Pirate Developer
+
+Ahoy there! I'm **Thameemul Azarudeen N**, a passionate student and developer sailing through the vast oceans of technology! Just like Monkey D. Luffy chases his dream of becoming the Pirate King, I'm on an epic adventure to master the art of coding and find the legendary treasure of innovation! 🍖
+
+🚢 **Current Quest**: Exploring the exciting realms of **AI**, **Blockchain**, **Web3**, **Full Stack Development**, and **Data Science**
+
+⚓ **When I'm not coding**: You'll find me enjoying cinema, gaming, and embarking on lifelong learning adventures
+
+🎯 **Dream**: To become the King of Coders and discover that **"The One Piece is Real... in Code!"**
+
+---
+
+## ⚔️ My Treasure Arsenal (Tech Stack)
+
+<div align="center">
+
+### 🏴‍☠️ Programming Languages
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+### ⚓ Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+### 🍖 Backend & Database
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white)
+
+### 🗺️ Blockchain & Web3
+![Blockchain](https://img.shields.io/badge/Blockchain-121D33?style=for-the-badge&logo=blockchain.info&logoColor=white)
+![DeFi](https://img.shields.io/badge/DeFi-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white)
+![Web3](https://img.shields.io/badge/Web3-F16822?style=for-the-badge&logo=web3.js&logoColor=white)
+
+### 🧭 AI & Machine Learning
+![AI](https://img.shields.io/badge/AI-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/ML-102230?style=for-the-badge&logo=python&logoColor=white)
+
+### 🏴‍☠️ Tools & Design
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+</div>
+
+---
+
+## 🏆 Featured Adventures (Projects)
+
+<div align="center">
+
+### ⚔️ Epic Quests I've Conquered
+
+</div>
+
+🍖 **DeFi DAO Treasurer Agent**  
+*A powerful decentralized finance management system*  
+- **Tech Stack**: OKX DEX, Coingecko API, ethers.js, Node.js  
+- **Achievement**: Automated treasury management for DAOs
+
+⚓ **AI Health Companion**  
+*Your personal health navigator with AI insights*  
+- **Tech Stack**: Google Fit API, AI/ML, NFT Integration  
+- **Achievement**: Gamified health tracking with blockchain rewards
+
+🗺️ **Gamified Web3 App**  
+*Where gaming meets blockchain innovation*  
+- **Tech Stack**: Smart Contracts, NFT Rewards, AI Quizzes  
+- **Achievement**: Interactive leaderboards with token incentives
+
+☠️ **AI Investment Planner**  
+*Navigate the financial seas with AI guidance*  
+- **Tech Stack**: Aptos Move, AI Agents, Financial APIs  
+- **Achievement**: Intelligent investment recommendations
+
+🏴‍☠️ **Face Recognition Attendance System**  
+*Modern attendance tracking adventure*  
+- **Tech Stack**: Roboflow, Computer Vision, Excel Integration  
+- **Achievement**: Automated attendance with 99% accuracy
+
+---
+
+## 📊 Battle Statistics (GitHub Stats)
+
+<div align="center">
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thameemul-Azarudeen-N&show_icons=true&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Thameemul-Azarudeen-N&theme=radical&hide_border=true" />
+  
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thameemul-Azarudeen-N&layout=compact&theme=radical&hide_border=true" />
+  
+</div>
+
+---
+
+## 🐍 Contribution Snake Animation
+
+<div align="center">
+  
+  ![Snake animation](https://github.com/Thameemul-Azarudeen-N/Thameemul-Azarudeen-N/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
+
+---
+
+## 🗺️ Connect with This Pirate
+
+<div align="center">
+  
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thameemul-azarudeen-n)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thameemul_azarudeen)
+  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thameemul_azar)
+  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thameemulazarudeen@gmail.com)
+  
+</div>
+
+---
+
+<div align="center">
+  
+  ## ⚔️ Final Words from the Future Pirate King ⚔️
+  
+  ### *"I'll find the One Piece of Tech… and become the King of Coders!"* 🏴‍☠️👑
+  
+  ![Profile Views](https://komarev.com/ghpvc/?username=Thameemul-Azarudeen-N&color=red&style=for-the-badge)
+  
+</div>
