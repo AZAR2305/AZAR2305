@@ -109,20 +109,19 @@ Ahoy there! I'm **Thameemul Azarudeen N**, a passionate student and developer sa
 
 <div align="center">
   
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHIyMW8zeGJkd2RzaGNnc3gxM21jajFjeTd3M3JyMzYxMjd6ZXFvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fZdzEHC8sMC0E/giphy.gif" width="200" alt="Luffy Power"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHIyMW8zeGJkd2RzaGNnc3gxM21jajFjeTd3M3JyMzYxMjd6ZXFvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fZdzEHC8sMC0E/giphy.gif" width="300" alt="Luffy Power"/>
   
   <br><br>
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thameemul-Azarudeen-N&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thameemul-Azarudeen-N&theme=radical&hide_border=true" />
+  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AZAR2305&show_icons=true&theme=radical&hide_border=true&count_private=true)
   
   <br>
   
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thameemul-Azarudeen-N&layout=compact&theme=radical&hide_border=true" />
+  ![GitHub Streak](https://streak-stats.demolab.com/?user=AZAR2305&theme=radical&hide_border=true)
   
-  <br><br>
+  <br>
   
-  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVmdjBtM2Myb2J0NWtibnJvZnJmejg3dnh0NzJ2YnN6ajhoNHQzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xLzOrO1e19V3q/giphy.gif" width="120" alt="Luffy Determined"/>
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AZAR2305&layout=compact&theme=radical&hide_border=true&count_private=true)
   
 </div>
 
@@ -132,19 +131,11 @@ Ahoy there! I'm **Thameemul Azarudeen N**, a passionate student and developer sa
 
 <div align="center">
   
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk3dXpteWxqYWN0cXd4OXNvb25hM3Q0cGYzeGh1ZmZ1djUxbnUxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmkEhAIyWfpm1vdVcg/giphy.gif" width="180" alt="Luffy Adventure"/>
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk3dXpteWxqYWN0cXd4OXNvb25hM3Q0cGYzeGh1ZmZ1djUxbnUxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmkEhAIyWfpm1vdVcg/giphy.gif" width="250" alt="Luffy Adventure"/>
   
   <br><br>
   
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thameemul-Azarudeen-N/Thameemul-Azarudeen-N/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thameemul-Azarudeen-N/Thameemul-Azarudeen-N/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Thameemul-Azarudeen-N/Thameemul-Azarudeen-N/output/github-contribution-grid-snake.svg">
-  </picture>
-  
-  <br><br>
-  
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHIyMW8zeGJkd2RzaGNnc3gxM21jajFjeTd3M3JyMzYxMjd6ZXFvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fZdzEHC8sMC0E/giphy.gif" width="150" alt="One Piece Power"/>
+  ![snake gif](https://github.com/AZAR2305/AZAR2305/blob/output/github-contribution-grid-snake.svg)
   
 </div>
 
@@ -154,9 +145,8 @@ Ahoy there! I'm **Thameemul Azarudeen N**, a passionate student and developer sa
 
 <div align="center">
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/thameemul-azarudeen-n)
-  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/thameemul_azarudeen)
-  [![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/thameemul_azar)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/thameemul-azarudeen-6b5097290)
+  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_azar_verse?igsh=MWQwNGx0enExdnk1)
   [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:thameemulazarudeen@gmail.com)
   
 </div>
@@ -169,6 +159,6 @@ Ahoy there! I'm **Thameemul Azarudeen N**, a passionate student and developer sa
   
   ### *"I'll find the One Piece of Tech… and become the King of Coders!"* 🏴‍☠️👑
   
-  ![Profile Views](https://komarev.com/ghpvc/?username=Thameemul-Azarudeen-N&color=red&style=for-the-badge)
+    ![Profile Views](https://komarev.com/ghpvc/?username=AZAR2305&color=red&style=for-the-badge)
   
 </div>
