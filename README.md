@@ -1,8 +1,12 @@
-# 🏴‍☠️ Ahoy! I'm Thameemul Azarudeen N ⚓
-
 <div align="center">
   
-  ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&pause=1000&color=F75C7E&center=true&vCenter=true&width=600&lines=Student+%2B+Developer+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;Navigating+the+Grand+Line+of+Code;AI+%7C+Blockchain+%7C+Web3+%7C+Full+Stack;The+One+Piece+is+Real...+in+Code!+%F0%9F%8D%96)
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVmdjBtM2Myb2J0NWtibnJvZnJmejg3dnh0NzJ2YnN6ajhoNHQzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xLzOrO1e19V3q/giphy.gif" width="120" alt="Luffy"/>
+  
+  # 🏴‍☠️ **THAMEEMUL AZARUDEEN N** ⚓
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Creepster&weight=800&size=28&pause=1000&color=FF6B35&center=true&vCenter=true&width=700&height=80&lines=%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F+FUTURE+PIRATE+KING+OF+CODE+%F0%9F%8F%B4%E2%80%8D%E2%98%A0%EF%B8%8F;%E2%9A%93+NAVIGATING+THE+GRAND+LINE+OF+TECH+%E2%9A%93;%F0%9F%8D%96+AI+%7C+BLOCKCHAIN+%7C+WEB3+%7C+FULL+STACK+%F0%9F%8D%96;%F0%9F%8F%86+THE+ONE+PIECE+IS+REAL...+IN+CODE!+%F0%9F%8F%86" alt="Typing SVG" />
+  
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk3dXpteWxqYWN0cXd4OXNvb25hM3Q0cGYzeGh1ZmZ1djUxbnUxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmkEhAIyWfpm1vdVcg/giphy.gif" width="150" alt="Luffy Adventure"/>
   
 </div>
 
@@ -105,10 +109,20 @@ Ahoy there! I'm **Thameemul Azarudeen N**, a passionate student and developer sa
 
 <div align="center">
   
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHIyMW8zeGJkd2RzaGNnc3gxM21jajFjeTd3M3JyMzYxMjd6ZXFvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fZdzEHC8sMC0E/giphy.gif" width="200" alt="Luffy Power"/>
+  
+  <br><br>
+  
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=Thameemul-Azarudeen-N&show_icons=true&theme=radical&hide_border=true" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Thameemul-Azarudeen-N&theme=radical&hide_border=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=Thameemul-Azarudeen-N&theme=radical&hide_border=true" />
+  
+  <br>
   
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thameemul-Azarudeen-N&layout=compact&theme=radical&hide_border=true" />
+  
+  <br><br>
+  
+  <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExenVmdjBtM2Myb2J0NWtibnJvZnJmejg3dnh0NzJ2YnN6ajhoNHQzbyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xLzOrO1e19V3q/giphy.gif" width="120" alt="Luffy Determined"/>
   
 </div>
 
@@ -118,7 +132,19 @@ Ahoy there! I'm **Thameemul Azarudeen N**, a passionate student and developer sa
 
 <div align="center">
   
-  ![Snake animation](https://github.com/Thameemul-Azarudeen-N/Thameemul-Azarudeen-N/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXk3dXpteWxqYWN0cXd4OXNvb25hM3Q0cGYzeGh1ZmZ1djUxbnUxMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WmkEhAIyWfpm1vdVcg/giphy.gif" width="180" alt="Luffy Adventure"/>
+  
+  <br><br>
+  
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Thameemul-Azarudeen-N/Thameemul-Azarudeen-N/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Thameemul-Azarudeen-N/Thameemul-Azarudeen-N/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Thameemul-Azarudeen-N/Thameemul-Azarudeen-N/output/github-contribution-grid-snake.svg">
+  </picture>
+  
+  <br><br>
+  
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbHIyMW8zeGJkd2RzaGNnc3gxM21jajFjeTd3M3JyMzYxMjd6ZXFvNCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/fZdzEHC8sMC0E/giphy.gif" width="150" alt="One Piece Power"/>
   
 </div>
 
