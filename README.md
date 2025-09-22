@@ -147,12 +147,21 @@ Ahoy there! I'm **Thameemul Azarudeen N**, a passionate student and developer sa
   
   <br><br>
   
-  <!-- Dark Mode Snake Animation from dist folder -->
-  <img src="https://raw.githubusercontent.com/AZAR2305/AZAR2305/main/dist/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" width="100%" />
+  <!-- Snake Animation with Multiple Fallbacks -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AZAR2305/AZAR2305/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AZAR2305/AZAR2305/output/github-contribution-grid-snake.svg">
+    <img alt="Snake Game" src="https://raw.githubusercontent.com/AZAR2305/AZAR2305/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
+  
+  <!-- Alternative: Try main branch path -->
+  <br><br>
+  <img src="https://raw.githubusercontent.com/AZAR2305/AZAR2305/main/dist/github-contribution-grid-snake.svg" alt="Snake Alternative" width="100%" style="display: none;" onerror="this.style.display='block'"/>
   
   <br><br>
   
-  <!-- Fallback message if snake doesn't load -->
+  <!-- Pirate themed fallback message -->
+  <p><em>🐍 The snake is on a treasure hunt... If it doesn't appear, the GitHub Action is still setting sail! ⚓</em></p>
   <p><em>🐍 The snake is hunting for contributions... Check back soon! 🏴‍☠️</em></p>
   
 </div>
