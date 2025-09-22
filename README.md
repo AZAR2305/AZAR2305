@@ -155,8 +155,7 @@ Ahoy there! I'm **Thameemul Azarudeen N**, a passionate student and developer sa
   </picture>
   
   <!-- Alternative: Try main branch path -->
-  <br><br>
-  <img src="https://raw.githubusercontent.com/AZAR2305/AZAR2305/main/dist/github-contribution-grid-snake.svg" alt="Snake Alternative" width="100%" style="display: none;" onerror="this.style.display='block'"/>
+  
   
   <br><br>
   
