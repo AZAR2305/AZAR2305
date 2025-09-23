@@ -128,8 +128,8 @@ Ahoy there! I'm **Thameemul Azarudeen N**, a passionate student and developer sa
   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=AZAR2305&show_icons=true&theme=radical&hide_border=true&count_private=true)
   
   <br>
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AZAR2305&theme=radical&hide_border=true)
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=AZAR2305&theme=radical&hide_border=true)
   
   <br>
   
