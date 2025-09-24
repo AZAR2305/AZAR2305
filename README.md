@@ -129,7 +129,8 @@ Ahoy there! I'm **Thameemul Azarudeen N**, a passionate student and developer sa
   
   <br>
   
-  ![GitHub Streak](https://streak-stats.demolab.com/?user=AZAR2305&theme=radical&hide_border=true)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=AZAR2305&theme=radical&hide_border=true)
+  
   
   <br>
   
