@@ -6,7 +6,7 @@
   <br>
   
 
-  <img src="1.gif" width="500" alt="THAMEEMUL AZARUDEEN"/>
+  <img src="1.gif" width="500" alt="AZAR"/>
   
   <br>
   
